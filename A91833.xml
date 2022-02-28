@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most gracious message sent by the Kings Majesty to both houses of Parliament, declaring his ardent desires for peace and the setlement of a true and happy union between his three kingdoms, to be dispersed throughout his Majesties realms and dominions, for satisfaction of all his Majesties loyall subjects. Also, divers new proposalls presented to the devines by His Majesty touching Episcopacy and the church litturgy, with their severall answers thereunto. To all true subjects.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91833</idno>
+            <idno type="STC">Wing R15</idno>
+            <idno type="STC">Thomason E468_31</idno>
+            <idno type="STC">ESTC R205404</idno>
+            <idno type="EEBO-CITATION">99864800</idno>
+            <idno type="PROQUEST">99864800</idno>
+            <idno type="VID">162347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91833)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162347)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most gracious message sent by the Kings Majesty to both houses of Parliament, declaring his ardent desires for peace and the setlement of a true and happy union between his three kingdoms, to be dispersed throughout his Majesties realms and dominions, for satisfaction of all his Majesties loyall subjects. Also, divers new proposalls presented to the devines by His Majesty touching Episcopacy and the church litturgy, with their severall answers thereunto. To all true subjects.</title>
+                  <author>E. R.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actually a summary of Charles I's positions at the treaty for peace at the Isle of Wight dated and signed at end: Newport Octob. 20. 1638. [sic] E.R.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162347:1" rendition="simple:additions"/>
+            <p>A MOST GRACIOUS MESSAGE SENT By the Kings Majeſty to both Houſes of Parliament, Declaring his a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dent deſires for Peace and the ſetle<g ref="char:EOLhyphen"/>ment of a true and happy union between his three Kingdoms, to be diſperſed throughout his Majeſties Realms and Dominions, for ſatisfaction of all his Majeſties loyall Subjects. ALSO, Divers new Propoſalls preſented to the Devines by His Majeſty touch<g ref="char:EOLhyphen"/>ing Epiſcopacy and the Church <hi>Litturgy,</hi> with their ſeverall an<g ref="char:EOLhyphen"/>ſwers thereunto.</p>
+            <lg>
+               <head>To all true Subjects.</head>
+               <l>Great <hi>Brittain's</hi> King deſires that Wars may ceaſe,</l>
+               <l>True Subjects then rejoyce, ther's hopes of Peace,</l>
+               <l>All Subjects now may <hi>Halilujah</hi> ſing,</l>
+               <l>And pra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe <hi>Jehovah</hi> that hath rais'd their King,</l>
+               <l>No Subject ('tis conceiv'd) deſires theſe Jarres,</l>
+               <l>Then let all pray, that Peace may end theſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Warres.</l>
+            </lg>
+            <figure>
+               <head>THE TREATING HOUSE:</head>
+               <head>THE ILE OF WAIT</head>
+               <figDesc>depiction of King Charles I at Carisbrooke Castle (Isle of Wight)</figDesc>
+            </figure>
+            <p>
+               <hi>Octob.</hi> 23. LONDON, Printed for <hi>R. L.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162347:2"/>
+            <pb n="1" facs="tcp:162347:2"/>
+            <head>The Kings Majeſties moſt gracious Meſ<g ref="char:EOLhyphen"/>ſage to both his Houſes of Parliament.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honoured</salute>
+                  </opener>
+                  <p>THe News here for preſent is of great Concern<g ref="char:EOLhyphen"/>ment: which I have ſent in brief <hi>viz. HIs Ma<g ref="char:EOLhyphen"/>jeſty concurs to the Propoſitions concerning Delin<g ref="char:EOLhyphen"/>quents, with theſe alterations, that thoſe in the firſt and 2 qualification may have life, and be in the Capacity of the 4. qualification. And that their incapability of Offices be for a time. And of b<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing Members of Parl. to be for 3. years.</hi>
+                  </p>
+                  <p>
+                     <hi>His Maj. hath offered Propoſitions to the Commiſſioners ſeverall times, but being not received. The King ſent this Meſſage to the Parl.</hi> 1. That his Maj. may come to <hi>London,</hi> and have the faith of his 2. Houſes for his ſecurity to be there in ſafty, freedom, &amp; honour. 2. That an Act (or Acts) may be paſſed for a full Indemp<g ref="char:EOLhyphen"/>nity, and of oblivion, with ſuch qualifications as ſhall be agreed on by his Majeſty &amp; his 2. Houſes of Parl. 3. That his Maj. may have his Revenues reſtored unto him. And 4. That a Compen<g ref="char:EOLhyphen"/>ſation may be allowed to his Maj. in liew of what he ſhall paſſe away. <hi>The Miniſters have delivered to the King another paper concerning Epiſc<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pacy; but his Maj. is not yet ſatisfied, ſo as to paſſe away their Lands quite. A coppy whereof followeth viz,</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Majeſty<g ref="char:punc">▪</g>
+                     </salute>
+                  </opener>
+                  <p>WEE deſire to ſpeak both to the Biſhops Chal<g ref="char:EOLhyphen"/>lenge, and to your Majeſties deſcription of E<g ref="char:EOLhyphen"/>piſcopall Government. And firſt to their Ch<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llenge; be<g ref="char:EOLhyphen"/>cauſe it is firſt expreſt in your Majeſties Reply.</p>
+                  <pb n="2" facs="tcp:162347:3"/>
+                  <p>The Challenge we u<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dertake in two reſpects: 1. In reſpect of the power challenged; 2. In reſpect of that ground, or Tenure upon which the claim is laid. The power challenged conſiſts of 3. particulars; <hi>Ordaining, giving Rules</hi> of Diſcipline and <hi>Cenſures.</hi> No more, no o<g ref="char:EOLhyphen"/>ther, in reſpect of their Epiſcopall Office. We ſee not, by what warra<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t this Writ of p<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tition is taken forth, by which the Apoſtilicall Office is thus ſhared or divided; The Governing part into the Biſhops hands; the Teach<g ref="char:EOLhyphen"/>ing and adminiſtring Sacraments, into the Presbyters. For beſides that the Scripture makes no ſuch incloſure, or partition wall, it appears, the challenge is grown to more then was pretended unto in the times of grown E<g ref="char:EOLhyphen"/>piſcop<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cie. <hi>Jerome</hi> and <hi>Chryſoſtome</hi> do both acknow<g ref="char:EOLhyphen"/>ledge for their time, that the Biſhop and Presbyter dif<g ref="char:EOLhyphen"/>fered only in the matter of Ordination: and learned Dr. <hi>Bilſon</hi> makes ſome abatement in the claim of 3. ſaying, the things proper to Biſhops, which might not be com<g ref="char:EOLhyphen"/>mon to Presbyters, are ſingularly of ſucceeding, and ſu<g ref="char:EOLhyphen"/>periority in Ordaining.</p>
+                  <p n="1">1. The name of Biſhop the Scripture neither expreſly nor by implication gives to either the work which they are injoyned to do is common to Apoſtles, Evangeliſts, Paſtors and Teachers, and cannot of it ſelf make a Cha<g ref="char:EOLhyphen"/>racter of one diſtinct and proper Office; But that there was ſuch an order of Officers in the Church as Evange<g ref="char:EOLhyphen"/>liſts reckoned amongſt the extraordinary and tempora<g ref="char:EOLhyphen"/>ry Offices, and that <hi>Timothy</hi> was one of that Order, and that both <hi>Timothy</hi> and <hi>Titus</hi> were not ordained to one particular Church, but were Companions and f<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llow Labourers with the Apoſtles, ſent abroad to ſeverall Churches as occaſion did require, it is as we (humbly,
+<pb n="3" facs="tcp:162347:3"/> conceive) clear enough in Scripture, and not denyed by the learned defenders of Epiſcopal Government nor (as we remember) by <hi>Scultetus</hi> himſelf during the time of their Travells.</p>
+                  <p n="2">2. To that which Your Maj. ſecondly ſaith, That we cannot make it appear by any Text of Scripture that the Office of Evangeliſt is ſuch as we have deſcribed, his work ſeeming, 2 <hi>Tim.</hi> 2. 4. 5. to be nothing elſe but dili<g ref="char:EOLhyphen"/>gence in preaching the word, notwithſtanding all im<g ref="char:EOLhyphen"/>pediments and oppoſitions, We humbly Anſwer, That exact definitions of theſe or other Church-Officers are hard to be found in any Text of Scripture, but by com<g ref="char:EOLhyphen"/>paring one place of Scripture with another, it may be proved as well what they were, as what the Apoſtles &amp; Presbyters were, the diſcription by us given being a Character ma<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e up by collation of Scriptures, from which Mr. <hi>Hooker</hi> doth not much vary, ſaying that E<g ref="char:EOLhyphen"/>vangeliſts were Presbyters of principall ſufficiency whom the Apoſtles ſent abroad and uſed as Agents in Eccleſiaſticall Affaires, whereſoever they ſaw need.</p>
+                  <p>Thirdly. Your Majeſty ſaith, that that which we ſo confidently affirme of <hi>Timothy</hi> &amp; <hi>Titus,</hi> their acting as E<g ref="char:EOLhyphen"/>vangeliſts is by ſome denyed and refuted, yea even with ſcorne rejected by ſome rigid Presbyterians, and that which we ſo confidently deny, that they were Biſhops, is confirmed by the conſentient teſtimony of all antiqui<g ref="char:EOLhyphen"/>tie, recorded by <hi>Ierome</hi> himſelf that they were Biſhops of <hi>Pauls</hi> ordination, acknowledged by very many late Divines, and that a Catalogue of 27. Biſhops of Epheſus lineallie ſucceeding from <hi>Timothy</hi> out of good Record is vouched by Dr. <hi>Reynolds</hi> and other Writers.</p>
+                  <pb n="4" facs="tcp:162347:4"/>
+                  <p>Our confidence (as your Majeſty is pleaſed to call it) was in our Anſwer expreſt in theſe words, we cannot ſay that <hi>Timothy</hi> and <hi>Tytus</hi> were Biſhops in the ſenſe of Your Maj. but <hi>extraordinary Officers are Evangeliſts,</hi> in which opinion we were then clear, not out of a totall ig<g ref="char:EOLhyphen"/>norance of thoſe Teſtimonies which might be alledg<g ref="char:EOLhyphen"/>ed againſt it, but from intrinſick arguments out of Scrip<g ref="char:EOLunhyphen"/>ture, from which your Maj. hath not produced any one to the contrary, nor is our confidence weakned by ſuch replyes as theſe, the Scripture never calls them Biſhops, but the Fathers do, the Scripture calls <hi>Timothy</hi> an Evan<g ref="char:EOLhyphen"/>geliſt, ſome of lrte have refuted it, and rejected it with ſcorn, the Scripture relates their motions from Church to Church, but ſome affirm them to be fixed at <hi>Epheſus</hi> and in <hi>Creet,</hi> the Scripture makes diſtinction of Evange<g ref="char:EOLhyphen"/>liſts &amp; Paſtors, but ſome ſay that <hi>Timothy</hi> &amp; <hi>Titus</hi> were both, we cannot give Your Majeſty a preſent account of <hi>Scultetus</hi> and <hi>Gherards</hi> Arguments, but do believe that M. <hi>Cilleſpi</hi> &amp; <hi>Rutherford</hi> are able with greater ſtrength to refute that opinion of <hi>Timothy</hi> and <hi>Titus</hi> their being Bi<g ref="char:EOLhyphen"/>ſhops, then they do (if they do) with ſcorn reject this of their being <hi>Evangeliſts.</hi>
+                  </p>
+                  <p>Your Majeſty ſaith, that we affirm but upon very weak proofes, that they were from <hi>Epheſus</hi> &amp; <hi>Creete,</hi> removed to other places, the contrary whereunto hath been de<g ref="char:EOLhyphen"/>monſtrated by ſome, who have exactly out of Scripture compared the times, and order of the ſeverall journies, and ſtations of <hi>Paul</hi> and <hi>Timothy.</hi>
+                  </p>
+                  <p>It is confeffed that our aſſertion, that <hi>Timothy</hi> and <hi>Titus</hi> were <hi>Evangeliſts,</hi> lies with ſome ſtreſſe upon this, that they removed from place to place, as they were ſent by or accompanied the Apoſtles, the
+<pb n="5" facs="tcp:162347:4"/> proof whereof appeares to us, to be of greater ſtrength then can be taken off by the compariſon, which your Majeſty makes of the Devines of the Aſſembly at Weſt<g ref="char:EOLhyphen"/>minſter.</p>
+                  <p>And for the travells of <hi>Timothy</hi> &amp; <hi>Titus</hi> we find them in order recorded in theſe Scripture places, <hi>Act. 17. 14. 15. 1 Theſ. 3. 1. 2. Act. 18. 5. Act. 19. 22. Act.</hi> 20. 4. 5. 6. 17.</p>
+                  <p>Now if your Maj. ſhall be pleaſed to caſt up into one totall that which is ſaid, the ſeverall journeyes and ſta<g ref="char:EOLhyphen"/>tions of <hi>Timothy,</hi> the order of them, the ſilence of Scrip<g ref="char:EOLhyphen"/>tures touching his being Biſhop of any one Church, you will acknowledge that ſuch a man was not a Biſhop fix<g ref="char:EOLhyphen"/>ed to one Church or precinct; and then by aſſuming that <hi>Timothy</hi> was ſuch a man, you will conclude that he was not Biſhop of Epheſus.</p>
+                  <p>The like concluſion may be inforced from the like premiſſes, from the inſtance of <hi>Titus. Gal 1. 2. Titus 3. 12. 22. 12. 2. Cor. 5. 6. 2 Cor. 8. 6. 2. Tim.</hi> 4. 10.</p>
+                  <p>To that which is aſſerted, That theſe ſingular perſons were Biſh. in diſtinct ſence, whither we brought any thing of moment to infirm this, we humbly ſubmit to your Maj. judgment, and ſhall only preſent to you that in your reply you have not taken notice of that which in our Anſwer ſeemes to us of moment, which is this.</p>
+                  <p>That in miſterious &amp; prophetick writings or viſio<g ref="char:EOLhyphen"/>nall repreſentations, a number of things or perſons is u<g ref="char:EOLhyphen"/>ſuall expreſt in ſingulars, and this in viſions is the uſual way of Repreſentations of things, a thouſand perſons making up one Church, is repreſented by one Candle<g ref="char:EOLhyphen"/>ſtick; many Miniſters making up one Presbytery by one Angell.</p>
+                  <pb n="6" facs="tcp:162347:5"/>
+                  <p>Laſtly theſe writings are directed as epiſtolary letters to collective bodies uſually are (that is) to One, but in<g ref="char:EOLhyphen"/>tended to the body; which your Majeſtie illuſtrateth by your ſending a Meſſage to your 2 houſes, and directing it to the Speaker of the houſe of Peers, which as it doth not hinder (we confeſſe) but that the Speaker is one fin<g ref="char:EOLhyphen"/>gle perſon, ſo it doth not prove at all, that the Speaker is alwaies the ſame perſon, or if he were, that therefore becauſe your Meſſage is directed to he<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that he is the Governour or Ruler of the 2 houſes in the leaſt, and ſo your Majeſty hath given clear inſtance that though theſe letters be directed to the angels, yet that notwithſtand<g ref="char:EOLhyphen"/>ing they might neither be Biſhops nor yet perpetuall Moderators.</p>
+                  <p>As for your Majeſties condeſcenſion, in vouchſaf<g ref="char:EOLhyphen"/>ing us the Liberty, and Honour of examining Your Learned, Reply Cloathed in ſuch Excellency of Stile, and for Your exceeding Candour; ſhewed to ſuch men as we are, and for the acceptation of our humble duty we render to your Majeſty moſt humble thanks, and ſhall pray, That ſuch a Peen in the hand of ſuch abili<g ref="char:EOLhyphen"/>ties, may ever be imployed in a ſubject worthy of it. Sir having thus acquainted you with the chief heads of the anſwer to His Majeſties laſt Papers, till next oppor<g ref="char:EOLhyphen"/>tunity I remaine,</p>
+                  <closer>
+                     <signed>Your humble ſervant, E. R</signed>
+                     <dateline>Newport <date>Octob. 20. 1638.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
